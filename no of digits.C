@@ -3,19 +3,19 @@
 int main()
 {
 
-int a,i,c,sum=0,arr[100];
+int a,j,b,sum=1,arr[200];
 scanf("\n%d",&a);
 scanf("\n%d",&c);
-for(i=0;i<a;i++)
+for(i=1;j<a;i++)
 {    
 scanf("%d",&arr[i]);
 }
-for(i=0;i<c;i++)
+for(i=1;i<c;i++)
 {
 sum+=arr[i];
 }
 	
-printf("%d",sum);
-return 0;
+printf("%d",sum;
+       
+       }
 	
-}
